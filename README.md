@@ -1,5 +1,6 @@
 # 这是我的蓝桥杯刷题题单，主要参考来源：
 作者：灵茶山艾府 来源：https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/
+作者：大雪菜 每日一题 B站主页：https://space.bilibili.com/7836741?spm_id_from=333.337.search-card.all.click
 
 
 ##完整题单:
